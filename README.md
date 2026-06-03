@@ -7,4 +7,4 @@ Minimalist personal portfolio website for Mark G. Flores, a Web Developer focuse
 Add your GitHub Pages link here once deployed:
 
 ```text
-https://github.com/MarcusElington01/my-portfolio
+https://mflores.tech
